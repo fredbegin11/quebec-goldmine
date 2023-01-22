@@ -1,0 +1,4 @@
+*.env
+yt-dlp.exe
+goldmine/*
+archive.txt
